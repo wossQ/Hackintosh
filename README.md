@@ -1,6 +1,6 @@
 # Hackintosh
 
-#前言
+*前言
 之前有在十代平台上完成黑苹果作业，具体配置如下：
 CPU: Intel i5-10400F
 主板：技嘉B460M AORUS ELITE
